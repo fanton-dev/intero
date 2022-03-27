@@ -1,12 +1,16 @@
 [submodule "ai"]
 	path = ai
-	url = https://github.com/braind3d/intero-ai
+	url = https://github.com/fanton-dev/intero-ai
+	branch = main
 [submodule "server"]
 	path = server
-	url = https://github.com/braind3d/intero-server
+	url = https://github.com/fanton-dev/intero-server
+	branch = main
 [submodule "plotter"]
 	path = plotter
-	url = https://github.com/braind3d/intero-plotter
+	url = https://github.com/fanton-dev/intero-plotter
+	branch = main
 [submodule "infrastructure"]
 	path = infrastructure
-	url = https://github.com/braind3d/intero-infrastructure
+	url = https://github.com/fanton-dev/intero-infrastructure
+	branch = main

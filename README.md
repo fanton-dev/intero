@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/braind3d/intero/fork">
+    <a href="https://github.com/fanton-dev/intero/fork">
         <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square" alt="Contributions welcome badge" />
     </a>
     <a href="LICENSE">
-        <img src="https://img.shields.io/github/license/braind3d/intero?style=flat-square" alt="License badge" />
+        <img src="https://img.shields.io/github/license/fanton-dev/intero?style=flat-square" alt="License badge" />
     </a>
 </p>
 
@@ -19,10 +19,10 @@
 ## Get started
 
 The project consists of 4 main components:
-- **Machine learning algorithm**, for generating floor plans based on text room description input (located in "[intero-ai](https://github.com/braind3d/intero-ai)")
-- **Backend API & Web client**, which provide an interface for drawing and generating floor plans, printing and plotting them, etc. (located in "[intero-server](https://github.com/braind3d/intero-server)")
-- **XY-Plotter**, which can draw the created floor plan onto paper (located in"[intero-plotter](https://github.com/braind3d/intero-plotter)")
-- **Deployment infrastructure**, which define the project infrastructure and  in the cloud (located in"[intero-infrastructure](https://github.com/braind3d/intero-infrastructure)")
+- **Machine learning algorithm**, for generating floor plans based on text room description input (located in "[intero-ai](https://github.com/fanton-dev/intero-ai)")
+- **Backend API & Web client**, which provide an interface for drawing and generating floor plans, printing and plotting them, etc. (located in "[intero-server](https://github.com/fanton-dev/intero-server)")
+- **XY-Plotter**, which can draw the created floor plan onto paper (located in"[intero-plotter](https://github.com/fanton-dev/intero-plotter)")
+- **Deployment infrastructure**, which define the project infrastructure and  in the cloud (located in"[intero-infrastructure](https://github.com/fanton-dev/intero-infrastructure)")
 
 For each of the components' repositories there is a corresponding `README.md` with instructions on how to get started.
 
@@ -30,7 +30,7 @@ For each of the components' repositories there is a corresponding `README.md` wi
 ## Development setup
 1. Clone the project repository and its submodules.
 ```
-git clone https://github.com/braind3d/intero --recursive
+git clone https://github.com/fanton-dev/intero --recursive
 cd intero
 ```
 
@@ -95,7 +95,7 @@ git submodule foreach --recursive git checkout main
 
 
 ## Contributions
-1. Fork it (<https://github.com/braind3d/intero/fork>)
+1. Fork it (<https://github.com/fanton-dev/intero/fork>)
 2. Create your feature branch (`git checkout -b feat-###`)
 3. Commit your changes (`git commit -a`)
 4. Push to the branch (`git push origin feat-###`)
